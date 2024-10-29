@@ -106,7 +106,7 @@
 		</td>
 	   <td>
 		   <div align="center"> github  <a href=""> 이동  </a></div>
-			<div align="center"> notion 
+			<div align="center"> notion 기획서 
 			<a href="https://super-gourd-bf0.notion.site/QA-114aa38ed1be803da741c9a20c8ab1ff"> 웹(WEB) </a> 
 			<a href="https://ldjwj.github.io/Goorm_2024_ICT23_allinOne/03_Project_Third/last_notion/Team_Healthmate_notion_last_V10.pdf"> PDF </a> 
 			</div>
@@ -135,8 +135,7 @@
 		   <div align="center"> 스마트폰 동영상
 		   <a href="https://drive.google.com/file/d/1hapz5XCb3wu0k2QWxJStrX6434PQfg0g/view?usp=sharing"> 이동 </a>
 		   </div>
-		   <div align="center"> notion <a href="https://outgoing-beast-a3b.notion.site/Neighborhood-Mixologist-1198bc5b0f4c8088bc8ac17cd3a909a6"> 이동하기 </a> </div>
-			<div align="center"> notion 
+			<div align="center"> notion 기획서 
 			<a href="https://outgoing-beast-a3b.notion.site/Neighborhood-Mixologist-1198bc5b0f4c8088bc8ac17cd3a909a6"> 웹(WEB) </a> 
 			<a href="https://ldjwj.github.io/Goorm_2024_ICT23_allinOne/03_Project_Third/last_notion/Team_snapx_notion_last_V10.pdf"> PDF </a> 
 			</div>
@@ -221,8 +220,8 @@
 			</div>
 		</td>
 	   <td>
-		   <div align="center"> github  <a href="https://github.com/jigosu/CCTV"> 이동  </a></div>
-			<div align="center"> notion <a href="https://mino0121.notion.site/112cad743d42807d8108da3e2f29b8cc"> 이동하기 </a> </div>
+		   <div align="center"> github   이동 </div>
+			<div align="center"> notion 기획서 <a href="https://mino0121.notion.site/112cad743d42807d8108da3e2f29b8cc"> 이동하기 </a> </div>
 		</td>
 	</tr>
 	<tr>
@@ -233,7 +232,7 @@
 			<div align="left"> [팀장] 김지희, 강우경, 이영준  </div>
 		</td>
 		<td>
-			<div align="left"> -- </div>
+			<div align="left"> 연예인 맛집 추천 서비스 </div>
 		</td>
 		<td>
 			<div align="center"> <a href="">
@@ -242,8 +241,8 @@
 			</div>
 		</td>
 	   <td>
-		   <div align="center"> github  <a href=""> 이동  </a></div>
-			<div align="center"> notion <a href=""> 이동하기 </a> </div>
+		   <div align="center"> github  이동 </div>
+			<div align="center"> notion 기획서  이동하기 </div>
 		</td>
 	</tr>
 </table>
