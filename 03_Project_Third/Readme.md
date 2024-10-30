@@ -85,7 +85,7 @@
 		</td>
 	   <td>
 		   <div align="center"> github  <a href=""> 이동  </a></div>
-			<div align="center"> notion 기획서 <a href=""> 이동하기 </a> </div>
+			<div align="center"> </div>
 		</td>
 	</tr>
 	<tr>
