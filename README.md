@@ -1,10 +1,16 @@
 
-# Goorm_4th_DataCourse
+# 수도권 ICT 올인원 Pass! 인공지능 프로젝트 마스터 2,3기 - 2024년
 
 ## 프로젝트 발걸음 
 
 ### 팀별 최종 프로젝트
 🔭 내용 : 팀프로젝트  <br>
+😄 기간 : 2024.10.30(수) ~ 2024.11.29(토)
+😄 해당 프로젝트로 [이동하기](https://github.com/LDJWJ/Goorm_2024_ICT23_allinOne/tree/main/03_Project_Third)  
+
+### 팀별 최종 프로젝트
+🔭 내용 : 팀프로젝트  <br>
+🔭 기간 : 2024.08.12(월) ~ 2024.10.26(토)
 😄 해당 프로젝트로 [이동하기](https://github.com/LDJWJ/Goorm_2024_ICT23_allinOne/tree/main/03_Project_Third)  
 
 
