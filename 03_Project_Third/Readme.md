@@ -59,7 +59,7 @@
 		<td>
 			<div align="center"> <a href="">
 			<img src='images/teamlogo_DrI.png' width=200 height=100  alt="---"></a> 
-			PDF <a href="https://ldjwj.github.io/Goorm_2024_ICT23_allinOne/03_Project_Third/last_reports/Team_PhDi_last_V10.pdf"> 이동 </a>			
+			PDF <a href="https://ldjwj.github.io/Goorm_2024_ICT234_allinOne/03_Project_Third/last_reports/Team_PhDi_last_V10.pdf"> 이동 </a>			
 			</div>
 		</td>
 	   <td>
@@ -80,7 +80,7 @@
 		<td>
 			<div align="center"> <a href="">
 			<img src='images/team_logo_dro.png' width=200 height=100  alt="---"></a> 
-			PDF <a href="https://ldjwj.github.io/Goorm_2024_ICT23_allinOne/03_Project_Third/last_reports/Team_Droh_last_V10.pdf"> 이동 </a>			
+			PDF <a href="https://ldjwj.github.io/Goorm_2024_ICT234_allinOne/03_Project_Third/last_reports/Team_Droh_last_V10.pdf"> 이동 </a>			
 			</div>
 		</td>
 	   <td>
@@ -101,14 +101,14 @@
 		<td>
 			<div align="center"> <a href="">
 			<img src='images/teamLogo_healthMate.png' width=200 height=100  alt="---"></a> 
-			PDF <a href="https://ldjwj.github.io/Goorm_2024_ICT23_allinOne/03_Project_Third/last_reports/Team_Healthmate_last_V10.pdf"> 이동 </a>			
+			PDF <a href="https://ldjwj.github.io/Goorm_2024_ICT234_allinOne/03_Project_Third/last_reports/Team_Healthmate_last_V10.pdf"> 이동 </a>			
 			</div>
 		</td>
 	   <td>
 		   <div align="center"> github  <a href=""> 이동  </a></div>
 			<div align="center"> notion 기획서 
 			<a href="https://super-gourd-bf0.notion.site/QA-114aa38ed1be803da741c9a20c8ab1ff"> 웹(WEB) </a> 
-			<a href="https://ldjwj.github.io/Goorm_2024_ICT23_allinOne/03_Project_Third/last_notion/Team_Healthmate_notion_last_V10.pdf"> PDF </a> 
+			<a href="https://ldjwj.github.io/Goorm_2024_ICT234_allinOne/03_Project_Third/last_notion/Team_Healthmate_notion_last_V10.pdf"> PDF </a> 
 			</div>
 		</td>
 	</tr>
@@ -125,7 +125,7 @@
 		<td>
 			<div align="center"> <a href="">
 			<img src='images/team_logo_snapx.png' width=200 height=100  alt="---"></a> 
-			PDF <a href="https://ldjwj.github.io/Goorm_2024_ICT23_allinOne/03_Project_Third/last_reports/Team_snapx_last_V10.pdf"> 이동 </a>			
+			PDF <a href="https://ldjwj.github.io/Goorm_2024_ICT234_allinOne/03_Project_Third/last_reports/Team_snapx_last_V10.pdf"> 이동 </a>			
 			</div>
 		</td>
 	   <td>
@@ -153,7 +153,7 @@
 		<td>
 			<div align="center"> <a href="">
 			<img src='images/logo_DocForge.png' width=200 height=100  alt="---"></a> 
-			PDF <a href="https://ldjwj.github.io/Goorm_2024_ICT23_allinOne/03_Project_Third/last_reports/Team_DocForge_last_V10.pdf"> 이동 </a>			
+			PDF <a href="https://ldjwj.github.io/Goorm_2024_ICT234_allinOne/03_Project_Third/last_reports/Team_DocForge_last_V10.pdf"> 이동 </a>			
 			</div>
 		</td>
 	   <td>
@@ -174,7 +174,7 @@
 		<td>
 			<div align="center"> <a href="">
 			<img src='images/teamlogo_watcher.png' width=200 height=100  alt="---"></a> 
-			PDF <a href="https://ldjwj.github.io/Goorm_2024_ICT23_allinOne/03_Project_Third/last_reports/Team_DocForge_last_V10.pdf"> 이동 </a>			
+			PDF <a href="https://ldjwj.github.io/Goorm_2024_ICT234_allinOne/03_Project_Third/last_reports/Team_DocForge_last_V10.pdf"> 이동 </a>			
 			</div>
 		</td>
 	   <td>
@@ -195,7 +195,7 @@
 		<td>
 			<div align="center"> <a href="">
 			<img src='images/teamlogo_pAlk.png' width=200 height=100  alt="---"></a> 
-			PDF <a href="https://ldjwj.github.io/Goorm_2024_ICT23_allinOne/03_Project_Third/last_reports/team_pAlk_last_V10.pdf"> 이동 </a>			
+			PDF <a href="https://ldjwj.github.io/Goorm_2024_ICT234_allinOne/03_Project_Third/last_reports/team_pAlk_last_V10.pdf"> 이동 </a>			
 			</div>
 		</td>
 	   <td>
