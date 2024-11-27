@@ -80,7 +80,7 @@
 		<td>
 			<div align="center"> <a href="">
 			<img src='images/team_logo_dro.png' width=200 height=100  alt="---"></a> 
-			PDF <a href="https://ldjwj.github.io/Goorm_2024_ICT234_allinOne/04_Project_Fourth/last_reports/Team_네모난상상_last_V10.pdf"> 이동 </a>			
+			PDF <a href="https://ldjwj.github.io/Goorm_2024_ICT234_allinOne/04_Project_Fourth/last_reports/Team_네모난상상_last_V11.pdf"> 이동 </a>			
 			</div>
 		</td>
 	   <td>
@@ -145,7 +145,7 @@
 		<td>
 			<div align="center"> <a href="">
 			<img src='images/logo_DocForge.png' width=200 height=100  alt="---"></a> 
-			PDF <a href="https://ldjwj.github.io/Goorm_2024_ICT234_allinOne/04_Project_Fourth/last_reports/"> 이동 </a>			
+			PDF <a href="https://ldjwj.github.io/Goorm_2024_ICT234_allinOne/04_Project_Fourth/last_reports/Team_마음이음_last_V10.pdf"> 이동 </a>			
 			</div>
 		</td>
 	   <td>
