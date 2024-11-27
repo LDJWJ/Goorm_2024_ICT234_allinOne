@@ -102,7 +102,7 @@
 		<td>
 			<div align="center"> <a href="">
 			<img src='images/teamLogo_healthMate.png' width=200 height=100  alt="---"></a> 
-			PDF <a href="https://ldjwj.github.io/Goorm_2024_ICT234_allinOne/04_Project_Fourth/last_reports/"> 이동 </a>			
+			PDF <a href="https://ldjwj.github.io/Goorm_2024_ICT234_allinOne/04_Project_Fourth/last_reports/Team_a-pose_last_V10.pdf"> 이동 </a>			
 			</div>
 		</td>
 	   <td>
